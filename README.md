@@ -85,3 +85,6 @@ Se você deseja contribuir para o desenvolvimento do Invista-me, siga os passos 
 # 📄 Licença
 
 O Invista-me é um software de código aberto sob a licença MIT.
+
+---
+# 📌 PLANO RAILWAY DESCONTINUADO EM 01/08/2023 ❌
